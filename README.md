@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eden</h1>
-<h3 align="center">Aspiring to be a Fullstack Web Developer</h3>
+<h3 align="center">Aspiring to become a Fullstack Web Developer</h3>
 
 - 👨‍💻 All of my projects are available at [edenb.tech](edenb.tech)
 
